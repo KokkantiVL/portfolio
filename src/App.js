@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Github, Linkedin, Mail, Phone, ChevronRight, ArrowRight } from 'lucide-react';
 
 export default function Portfolio() {
